@@ -1,4 +1,7 @@
-### Hi there 👋
+## Github Stats
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=onah)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=onah)
+
 
 <!--
 **onah/onah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
